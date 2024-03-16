@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S+jQM8ViFQ1l7zj6LQr4Wcw2egjon83NrnYQzo1f5sc=",
+  "Source": "aspnet-test",
+  "BasePath": "_content/aspnet-test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
